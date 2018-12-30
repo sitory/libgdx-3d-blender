@@ -15,6 +15,6 @@ Example of 3D character for Bladecoder Engine / LibGDX, done in Blender 2.79b
 - [Fbx-conv-installer-Linux](https://github.com/Yzubi/Fbx-conv-installer-Linux)
 - [Blender G3D Exporter](https://github.com/Dancovich/libgdx_blender_g3d_exporter)
 
-Random notes: For better compatibility with the Blender G3D Exporter addon. Convert your Curves to Meshes with Alt-C, parent bones with Armature Deform when animating.
+Random notes: For better compatibility with the Blender G3D Exporter addon. Convert your Curves to Meshes with Alt-C, parent bones with Armature Deform when animating. A good value for 2D animation is "Armature Deform - With Automatic Weights"
 
 #CTRL+I to invert selection
