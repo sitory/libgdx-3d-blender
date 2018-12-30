@@ -12,3 +12,5 @@ Example of 3D character for Bladecoder Engine / LibGDX, done in Blender 2.79b
 - [Coa Tools - Blender Addon for 2D animation](https://github.com/ndee85/coa_tools)
 - [Simple 2.5D character creation and animation](https://www.youtube.com/watch?v=54xbZUykMPo)
 - [Blender Low poly - Cute Villager Girl](https://www.youtube.com/watch?v=AK56ehoMVRo)
+
+#CTRL+I to invert selection
