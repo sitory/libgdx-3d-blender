@@ -12,7 +12,9 @@ Example of 3D character for Bladecoder Engine / LibGDX, done in Blender 2.79b
 - [Coa Tools - Blender Addon for 2D animation](https://github.com/ndee85/coa_tools)
 - [Simple 2.5D character creation and animation](https://www.youtube.com/watch?v=54xbZUykMPo)
 - [Blender Low poly - Cute Villager Girl](https://www.youtube.com/watch?v=AK56ehoMVRo)
+- [Fbx-conv-installer-Linux](https://github.com/Yzubi/Fbx-conv-installer-Linux)
+- [Blender G3D Exporter](https://github.com/Dancovich/libgdx_blender_g3d_exporter)
 
-Random notes: For better compatibility with the Blender exporter Addon. Convert your Curves to Meshes with Alt-C, parent bones with Armature Deform when animating.
+Random notes: For better compatibility with the Blender G3D Exporter addon. Convert your Curves to Meshes with Alt-C, parent bones with Armature Deform when animating.
 
 #CTRL+I to invert selection
