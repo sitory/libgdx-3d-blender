@@ -26,3 +26,4 @@ Random notes: For better compatibility with the Blender G3D Exporter addon. Conv
 #CTRL+I to invert selection
 
 Vertex connect: Hotkey j
+Knife: Hotkey k
