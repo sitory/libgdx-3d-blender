@@ -10,7 +10,7 @@ Example of 3D character for Bladecoder Engine / LibGDX, done in Blender 2.79b
 - [Deleting & Dissolving](https://docs.blender.org/manual/en/2.79/modeling/meshes/editing/basics/deleting.html) (Limited Dissolve)
 - [Select multiple faces at once](https://blender.stackexchange.com/questions/5004/select-multiple-faces-at-once)
 - [Parenting Objects](https://docs.blender.org/manual/en/2.79/editors/3dview/object/properties/relations/parents.html)
-- [Automerge closed vertex](https://blender.stackexchange.com/questions/39078/using-automerge-editing-things-arent-merging-what-isnt-right)
+- [Automerge close vertex](https://blender.stackexchange.com/questions/39078/using-automerge-editing-things-arent-merging-what-isnt-right)
 - [Blender Tip - Adding color to faces](https://www.youtube.com/watch?v=SlQDSvUSsuI) - [Multiple Materials Per Object](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Multiple_Materials_Per_Object) - [Vertex Color](https://blendersushi.blogspot.com/2012/03/basic-working-with-vertex-color.html) - [Face paint using vertex color](https://blender.stackexchange.com/questions/31160/is-it-possible-to-paint-only-on-selected-vertices-in-vertex-paint)
 - [Rig and Animate 2D Sprites in Blender for the Web](http://blog.gskinner.com/archives/2018/02/rigging-animated-2d-sprites-part-1.html) - [Blender 2D Face](https://www.youtube.com/watch?v=qwlemxwK-ZE) - [Tutorial Series: Easy Rigging in Blender 3D](https://www.youtube.com/playlist?list=PLvH-_5Bn5fqEhpShYvLQX3563zhZN6V0p)
 - [Join bones Armature](https://blender.stackexchange.com/questions/21239/join-bones-in-a-armature) (CTRL+J for Object Mode)
