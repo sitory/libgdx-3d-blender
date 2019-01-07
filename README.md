@@ -14,6 +14,7 @@ Example of 3D character for Bladecoder Engine / LibGDX, done in Blender 2.79b
 - [Rig and Animate 2D Sprites in Blender for the Web](http://blog.gskinner.com/archives/2018/02/rigging-animated-2d-sprites-part-1.html) - [Blender 2D Face](https://www.youtube.com/watch?v=qwlemxwK-ZE)
 - [Join bones Armature](https://blender.stackexchange.com/questions/21239/join-bones-in-a-armature) (CTRL+J for Object Mode)
 - [How to make an object invisible at a frame](https://stackoverflow.com/questions/8844389/how-to-make-an-object-invisible-at-a-particular-keyframe-without-moving-it-in-bl) (Moving an object outside camera view is a good approach, parent the part you want to hide to a bone, and move the bone away.)
+[Instant, non smooth frame - Set Keyframe Interpolation](https://blender.stackexchange.com/questions/2379/how-can-a-single-curve-interpolation-mode-set-to-constant)
 - [Coa Tools - Blender Addon for 2D animation](https://github.com/ndee85/coa_tools)
 - [Simple 2.5D character creation and animation](https://www.youtube.com/watch?v=54xbZUykMPo) - [Rigging 2D PERSIAN](https://www.youtube.com/watch?v=q8fT1fK_80I) - [Doodle Notes II - Channel](https://www.youtube.com/user/doodlenotes1234/videos)
 - [Blender Low poly - Cute Villager Girl](https://www.youtube.com/watch?v=AK56ehoMVRo)
