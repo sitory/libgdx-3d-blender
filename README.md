@@ -28,3 +28,11 @@ Random notes: For better compatibility with the Blender G3D Exporter addon. Conv
 
 Vertex connect: Hotkey j
 Knife: Hotkey k
+
+#
+Snap Menu - Selection to Cursor
+
+Reference
+Mode:	Object, Edit, and Pose Mode
+Menu:	Object/Object type ‣ Snap
+Hotkey:	Shift-S
