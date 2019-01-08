@@ -40,6 +40,12 @@ Menu:	Object/Object type ‣ Snap
 Hotkey:	Shift-S
 
 #
+Center camera view to object
+1. Select object
+2. Shift-S -> Cursor to selected
+3. Alt-Home (Center view to cursor)
+
+#
 
 Freely joined bones: Select two bones in edit mode -> CTRL-P -> Keep Offset
 
