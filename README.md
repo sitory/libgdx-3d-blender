@@ -16,6 +16,7 @@ Example of 3D character for Bladecoder Engine / LibGDX, done in Blender 2.79b
 - [Join bones Armature](https://blender.stackexchange.com/questions/21239/join-bones-in-a-armature) (CTRL+J for Object Mode)
 - [How to make an object invisible at a frame](https://stackoverflow.com/questions/8844389/how-to-make-an-object-invisible-at-a-particular-keyframe-without-moving-it-in-bl) (Moving an object outside camera view (g -> z -> -1000) is a good approach, parent the part you want to hide to a bone, and move the bone away.)
 - [Is it possible to begin/end parent relationship with animation or keyframe?](https://blender.stackexchange.com/questions/71669/is-it-possible-to-begin-end-parent-relationship-with-animation-or-keyframe)
+- [Is there a way to convert a constraint to a keyframe?](https://blender.stackexchange.com/questions/2533/is-there-a-way-to-convert-a-constraint-to-a-keyframe)
 - [Instant, non smooth frame - Set Keyframe Interpolation to constant](https://blender.stackexchange.com/questions/2379/how-can-a-single-curve-interpolation-mode-set-to-constant)
 - [Simple 2.5D character creation and animation](https://www.youtube.com/watch?v=54xbZUykMPo) - [Rigging 2D PERSIAN](https://www.youtube.com/watch?v=q8fT1fK_80I) - [Doodle Notes II - Channel](https://www.youtube.com/user/doodlenotes1234/videos)
 - [Blender Low poly - Cute Villager Girl](https://www.youtube.com/watch?v=AK56ehoMVRo)
