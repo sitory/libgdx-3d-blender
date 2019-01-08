@@ -36,3 +36,7 @@ Reference
 Mode:	Object, Edit, and Pose Mode
 Menu:	Object/Object type ‣ Snap
 Hotkey:	Shift-S
+
+#
+
+Freely joined bones: Select two bones in edit mode -> CTRL-P -> Keep Offset
