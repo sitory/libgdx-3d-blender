@@ -51,6 +51,5 @@ Freely joined bones: Select two bones in edit mode -> CTRL-P -> Keep Offset
 To use custom shapes: Bone -> [Display] Custom Shape + Wireframe
 Object Data -> [Display] Shapes
 
-#
-Enabling backface culling
-Properties panel (N) -> [Shading] Enable textured solid and Backface culling
+# Enabling backface culling:
+- Properties panel (N) -> [Shading] Enable textured solid and Backface culling
