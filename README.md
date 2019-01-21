@@ -54,3 +54,5 @@ Object Data -> [Display] Shapes
 
 # Enabling backface culling:
 - Properties panel (N) -> [Shading] Enable textured solid and Backface culling
+# Flip face
+W -> Flip Normals in edit mode to flip faces
