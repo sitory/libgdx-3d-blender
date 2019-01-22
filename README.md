@@ -56,4 +56,5 @@ Object Data -> [Display] Shapes
 - Properties panel (N) -> [Shading] Enable textured solid and Backface culling
 # Flip face
 W -> Flip Normals in edit mode to flip faces
-# Alt-Z Textured mode (LowPoly)
+# Alt-Z Textured mode
+# [Solid Mode](https://blender.stackexchange.com/questions/26636/how-to-toggle-material-view-mode-by-hotkey-similar-to-alt-z-shift-z)
