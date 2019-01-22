@@ -57,4 +57,4 @@ Object Data -> [Display] Shapes
 # Flip face
 W -> Flip Normals in edit mode to flip faces
 # Alt-Z Textured mode
-# [Solid Mode](https://blender.stackexchange.com/questions/26636/how-to-toggle-material-view-mode-by-hotkey-similar-to-alt-z-shift-z)
+[Solid material view Mode - Viewport Shading](https://blender.stackexchange.com/questions/26636/how-to-toggle-material-view-mode-by-hotkey-similar-to-alt-z-shift-z)
