@@ -56,3 +56,4 @@ Object Data -> [Display] Shapes
 - Properties panel (N) -> [Shading] Enable textured solid and Backface culling
 # Flip face
 W -> Flip Normals in edit mode to flip faces
+# Alt-Z Textured mode (LowPoly)
