@@ -58,3 +58,8 @@ Object Data -> [Display] Shapes
 W -> Flip Normals in edit mode to flip faces
 # Alt-Z Textured mode
 [Solid material view Mode - Viewport Shading](https://blender.stackexchange.com/questions/26636/how-to-toggle-material-view-mode-by-hotkey-similar-to-alt-z-shift-z)
+
+# Bladecoder Engine Camera FOV and zoom without camera
+Set the "Camera FOV" value the same as your Blender "Field of View" camera value
+
+If you want something similar to an "ortographic camera" dont use cameras, and change the Bladecoder "Camera FOV" for zoom in/zoom out
