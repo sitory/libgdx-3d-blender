@@ -27,7 +27,7 @@ Example of 3D character for Bladecoder Engine / LibGDX, done in Blender 2.79b
 
 Random notes: For better compatibility with the Blender G3D Exporter addon. Convert your Curves to Meshes with Alt-C, parent bones with Armature Deform when animating. A good value for 2D animation is "Armature Deform - With Automatic Weights"
 
-#Invert model sides in object mode with R -> Y -> -1
+# Invert model sides in object mode with S -> Y -> -1
 
 #CTRL+I to invert selection
 
