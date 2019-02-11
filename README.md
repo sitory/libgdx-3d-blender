@@ -3,6 +3,7 @@ Example of 3D character for Bladecoder Engine / LibGDX, done in Blender 2.79b
 
 # Useful links
 - [3D models and animation from Blender to LibGDX](https://www.gamefromscratch.com/post/2014/01/19/3D-models-and-animation-from-Blender-to-LibGDX.aspx)
+- [How to see the bones through the mesh?](https://blender.stackexchange.com/questions/110254/how-to-see-the-bones-through-the-mesh) (Enable x-ray)
 - [NLA Editor Blender](https://docs.blender.org/manual/en/2.79/editors/nla/index.html)
 - [Scripting – Change settings the fast way - Blender](https://code.blender.org/2011/05/scripting-%E2%80%93-change-settings-the-fast-way/)
 - [Nurbs Tutorial](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/NURBS_Patches) (Alt-C to fill Nurbs curve in edit mode)
