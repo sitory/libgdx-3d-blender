@@ -3,7 +3,7 @@ Example of 3D character for Bladecoder Engine / LibGDX, done in Blender 2.79b
 
 # Useful links
 - [3D models and animation from Blender to LibGDX](https://www.gamefromscratch.com/post/2014/01/19/3D-models-and-animation-from-Blender-to-LibGDX.aspx)
-- [How to see the bones through the mesh?](https://blender.stackexchange.com/questions/110254/how-to-see-the-bones-through-the-mesh) (Enable x-ray in Object Data)
+- [How to see the bones through the mesh?](https://blender.stackexchange.com/questions/110254/how-to-see-the-bones-through-the-mesh) (Object Data -> Display -> Enable X-Ray)
 - [Change bone colors](https://www.youtube.com/watch?v=VqTdzPnvpUk) (Pose mode -> Object Data -> Enable "Colors" in "Display" -> Add new bone group in "Bone Groups" -> Select color and assign the color to selected bones.
 - [Change bone tickness](https://blender.stackexchange.com/questions/6215/change-size-of-armature-bones)(CTRL+ALT+S in edit mode)
 - [NLA Editor Blender](https://docs.blender.org/manual/en/2.79/editors/nla/index.html)
