@@ -25,6 +25,7 @@ Example of 3D character for Bladecoder Engine / LibGDX, done in Blender 2.79b
 - [Simple 2.5D character creation and animation](https://www.youtube.com/watch?v=54xbZUykMPo) - [Rigging 2D PERSIAN](https://www.youtube.com/watch?v=q8fT1fK_80I) - [Doodle Notes II - Channel](https://www.youtube.com/user/doodlenotes1234/videos)
 - [Blender Low poly - Cute Villager Girl](https://www.youtube.com/watch?v=AK56ehoMVRo)
 - [Coa Tools - Blender Addon for 2D animation](https://github.com/ndee85/coa_tools)
+- [How To Make A Character For Cut Out Animation In Blender 2.79](https://www.youtube.com/watch?v=4lsP-6Dzr6Y)
 - [Fbx-conv-installer-Linux](https://github.com/Yzubi/Fbx-conv-installer-Linux)
 - [Blender G3D Exporter](https://github.com/Dancovich/libgdx_blender_g3d_exporter)
 - [Set object default size, location, rotation](https://blenderartists.org/t/set-an-objects-default-size/677237) (CTRL-A)
