@@ -1,7 +1,13 @@
 # Blade-Engine-3D-Character-Example
 Example of 3D character for Bladecoder Engine / LibGDX, done in Blender 2.79b
 
+# Bones moved by Vertex groups:
+1. Create a Armature Modifier for the mesh you want to animate, and in "Object" set your armature
+2. (Easier way) Select your object, go to "Weight Paint", disable Face Selection, select the bone you want to assign your vertex groups, Press W (Specials) -> Assign automatic from Bones
+
+2. Or... (Manual way) Select your object, create a Vertex Group, and name it with the same name as your bone.
 # Useful links
+
 - [3D models and animation from Blender to LibGDX](https://www.gamefromscratch.com/post/2014/01/19/3D-models-and-animation-from-Blender-to-LibGDX.aspx)
 - [How to see the bones through the mesh?](https://blender.stackexchange.com/questions/110254/how-to-see-the-bones-through-the-mesh) (Object Data -> Display -> Enable X-Ray)
 - [Blender - Inverse Kinematics Limits](https://docs.blender.org/manual/en/2.79/rigging/armatures/posing/bone_constraints/inverse_kinematics/introduction.html)
