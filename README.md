@@ -6,6 +6,8 @@ Example of 3D character for Bladecoder Engine / LibGDX, done in Blender 2.79b
 2. (Easier way) Select your object, go to "Weight Paint", disable Face Selection, select the bone you want to assign your vertex groups, Press W (Specials) -> Assign automatic from Bones
 
 2. Or... (Manual way) Select your object, create a Vertex Group, and name it with the same name as your bone.
+[How do I transfer only single vertex groups between objects?](https://blender.stackexchange.com/questions/45898/how-do-i-transfer-only-single-vertex-groups-between-objects)
+
 # Useful links
 
 - [3D models and animation from Blender to LibGDX](https://www.gamefromscratch.com/post/2014/01/19/3D-models-and-animation-from-Blender-to-LibGDX.aspx)
