@@ -3,7 +3,7 @@ Example of 3D character for Bladecoder Engine / LibGDX, done in Blender 2.79b
 
 # Bones moved by Vertex groups:
 1. Create a Armature Modifier for the mesh you want to animate, and in "Object" set your armature
-2. (Easier way) Select your object, go to "Weight Paint", press CTRL+select the bone you want to assign your vertex groups, Press W (Specials) -> Assign automatic from Bones
+2. (Easier way) Select your object, go to "Weight Paint", press CTRL+select the bone you want to assign your vertex groups, paint the mesh.
 
 2. Or... (Manual way) Select your object, create a Vertex Group, and name it with the same name as your bone.
 [How do I transfer only single vertex groups between objects?](https://blender.stackexchange.com/questions/45898/how-do-i-transfer-only-single-vertex-groups-between-objects)
