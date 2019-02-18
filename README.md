@@ -38,6 +38,7 @@ Example of 3D character for Bladecoder Engine / LibGDX, done in Blender 2.79b
 - [Fbx-conv-installer-Linux](https://github.com/Yzubi/Fbx-conv-installer-Linux)
 - [Blender G3D Exporter](https://github.com/Dancovich/libgdx_blender_g3d_exporter)
 - [Set object default size, location, rotation](https://blenderartists.org/t/set-an-objects-default-size/677237) (CTRL-A)
+- [How to snap part of a mesh to the grid?](https://blender.stackexchange.com/questions/7368/how-to-snap-part-of-a-mesh-to-the-grid)
 
 Random notes: For better compatibility with the Blender G3D Exporter addon. Convert your Curves to Meshes with Alt-C, parent bones with Armature Deform when animating. A good value for 2D animation is "Armature Deform - With Automatic Weights"
 
