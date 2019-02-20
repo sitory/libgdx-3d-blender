@@ -14,6 +14,7 @@ Select faces-> Change to Edge select -> Alt+S
 (Ctrl+Shift+B
 # Scale Uniform in Blender - Similar to Wings 3D
 Select faces-> CTRL + . -> S (Pivot Point = Individual Origins)
+
 Revert with CTRL + , (Pivot Point = Median Point)
 
 # Useful links
