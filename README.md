@@ -12,8 +12,9 @@ It started just as an example of 3D character for Bladecoder Engine / LibGDX, do
 Select faces-> Change to Edge select -> Alt+S
 # Bevel vertices in Blender- Similar to Wings 3D
 (Ctrl+Shift+B
-
-[Scale Uniform in Blender - Similar to Wings 3D](https://blender.stackexchange.com/questions/79271/shrink-fatten-weird-edges-how-to-get-uniform-scale)
+# Scale Uniform in Blender - Similar to Wings 3D
+Select faces-> CTRL + . -> S (Pivot Point = Individual Origins)
+Revert with CTRL + , (Pivot Point = Median Point)
 
 # Useful links
 
