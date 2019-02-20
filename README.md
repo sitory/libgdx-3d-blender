@@ -8,9 +8,9 @@ It started just as an example of 3D character for Bladecoder Engine / LibGDX, do
 2. Or... (Manual way) Select your object, create a Vertex Group, and name it with the same name as your bone.
 [How do I transfer only single vertex groups between objects?](https://blender.stackexchange.com/questions/45898/how-do-i-transfer-only-single-vertex-groups-between-objects)
 
-#Scale uniform in Blender (Similar to Wings 3D)
+# Scale uniform in Blender (Similar to Wings 3D)
 Select faces -> Alt+S
-#Bevel vertices in Blender (Similar to Wings 3D)
+# Bevel vertices in Blender (Similar to Wings 3D)
 (Ctrl+Shift+B
 
 # Useful links
