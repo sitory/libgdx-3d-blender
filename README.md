@@ -7,6 +7,8 @@ It started just as an example of 3D character for Bladecoder Engine / LibGDX, do
 
 2. Or... (Manual way) Select your object, create a Vertex Group, and name it with the same name as your bone.
 [How do I transfer only single vertex groups between objects?](https://blender.stackexchange.com/questions/45898/how-do-i-transfer-only-single-vertex-groups-between-objects)
+# To weight paint multiple objects at the same time, use the "MultiEdit" Blender Addon
+https://github.com/Yzubi/MultiEdit-Addon
 
 # Move along vertex / edges (Vertex slide)
 g -> g
