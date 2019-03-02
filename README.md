@@ -1,5 +1,4 @@
 # Libgdx-3D-Character-Example
-It started just as an example of 3D character for Bladecoder Engine / LibGDX, done in Blender 2.79b. Now it also contains many random experiments, and useful tutorial links & Blender keybindings.
 
 # Bones moved by Vertex groups:
 1. Create a Armature Modifier for the mesh you want to animate, and in "Object" set your armature
